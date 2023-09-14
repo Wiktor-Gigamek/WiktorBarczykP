@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WiktorBarczykP</string>
+    <string name="PIN">PIN</string>
+    <string name="Password">PASSWORD</string>
+    <string name="NEXT">NEXT</string>
+    <string name="REGISTER">REGISTER</string>
+     <string name="SUPRICE"></string>
 </resources>
